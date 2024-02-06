@@ -1,0 +1,161 @@
+body{
+    font-family: lato;
+background-image: url('image/Homepage.png');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+}
+
+
+
+div{
+background-color: #ffffff61;
+width: 589px;
+height: 883px;
+top: 70px;
+left: 23px;
+padding: 94px,122px,95px,121px;
+border-radius: 8px;
+position: absolute;
+}
+
+
+
+form{
+width: 346px;
+height: 694px;
+top: 94;
+left: 121px;
+position: absolute;
+}
+
+h2{
+width: 194;
+height: 32px; 
+font-family: montserrat;
+font-size: 20px;
+font-weight: 600px;
+line-height: 32px;
+letter-spacing: 0cm;
+text-align: left;
+color: #101010;
+
+}
+
+label{
+width: 91px;
+height: 24px;
+top: 37px;
+left: 1px;
+font-family: montserrat;
+font-size: 16px;
+font-weight: 400px;
+line-height: 24px;
+letter-spacing: 0cm;
+text-align: left;
+}
+
+input{
+    width: 345px;
+height: 48px;
+top: 69px;
+left: 1px;
+border-radius: 8px;
+linear-gradient( 0dog, #f)
+
+}
+
+
+.Reg{
+width: 345px;
+height: 48px;
+top: 524px;
+left: 1px;
+border-radius: 8px;
+background: #6da01e;
+}
+
+
+.Google{
+width: 345px;
+height: 48px;
+top: 596px;
+left: 1px;
+padding: 12px,73px,12px,73px;
+border-radius: 8px;
+border: 1px;
+color: #6da01e;
+border: 1px solid #6da01e;
+}
+
+
+.password-container {
+    position: relative;
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+
+  .toggle-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+</style>
+
+
+
+
+.Log{
+color: #6da01e;
+
+}
+
+p{
+width: 211px;
+height: 42px;
+font-family: poppines;
+font-size: 16px;
+font-weight: 400px;
+line-height: 24px;
+letter-spacing: 0cm;
+text-align: left;
+color: #000000;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
